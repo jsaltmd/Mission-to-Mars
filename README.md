@@ -7,7 +7,7 @@ The module challenge includes adding all four of the hemisphere images to the cu
 
 ### Results:
 
-The three key differences in weather between June and December are listed below:
+This module challenge consists of three technical analyses:
 
 •	*Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles.*
 
